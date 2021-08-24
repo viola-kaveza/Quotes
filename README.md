@@ -16,7 +16,7 @@ This is an application where the user is able to see the posted quotes,upvote or
 - use atom . or code . to open the cloned repo on Atom or Vs-code respectively
 
 ## Deployed link
-
+https://viola-kaveza.github.io/quotes-app/
 
 ## Quotes
 
