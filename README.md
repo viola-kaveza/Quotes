@@ -15,7 +15,7 @@ This is an application where the user is able to see the posted quotes,upvote or
 - cd quotes-app
 - use atom . or code . to open the cloned repo on Atom or Vs-code respectively
 
-## Deployed link
+## Live link
 https://viola-kaveza.github.io/quotes-app/
 
 ## Quotes
@@ -53,6 +53,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## License
 
 This software is Licensed under MIT license Copyright (2021) 
+
 -Viola Kaveza
 
 
