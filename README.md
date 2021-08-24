@@ -11,7 +11,7 @@ This is an application where the user is able to see the posted quotes,upvote or
 ## Setup/Installation Requirements
 
 - Open terminal (CTRL ALT T)
-- git clone 
+- git clone https://github.com/viola-kaveza/quotes-app.git
 - cd quotes-app
 - use atom . or code . to open the cloned repo on Atom or Vs-code respectively
 
